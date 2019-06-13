@@ -10,9 +10,9 @@
 > Files to use are included in this repo and are indicated below in italics, solve the following questions
 
 
-- [ ] Write a function that shows the current date and time in a file called *print-date.js*. e.g: `printDate()`. 
+- [x] Write a function that shows the current date and time in a file called *print-date.js*. e.g: `printDate()`. 
 
-- [ ] Write a function that when given name it shows "Hello name", name should be any name that is passed to the function in a file called *greet.js*.
+- [ x ] Write a function that when given name it shows "Hello name", name should be any name that is passed to the function in a file called *greet.js*.
 
  e.g: `greet("Mark Second")` should print "Hello Mark Second"  
 - [ ] Write a function named tellFortune that:  *tell-fortune.js*
